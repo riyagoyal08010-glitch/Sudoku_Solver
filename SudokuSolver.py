@@ -116,3 +116,4 @@ if __name__ == '__main__':   #run this block only when file being run directly n
 
     print("Solved Sudoku Board:")
     pprint(example_board)              # Print the solved Sudoku
+ 
